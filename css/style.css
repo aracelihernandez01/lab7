@@ -54,6 +54,6 @@
   background-color:lightslategray;
 }
 #planets img {
-  width: 10px; /* Adjust the width as needed */
+  width: 50px; /* Adjust the width as needed */
   height: auto; /* This will maintain the aspect ratio of the images */
 }
