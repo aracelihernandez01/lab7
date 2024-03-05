@@ -53,3 +53,7 @@
 #planets td:hover{
   background-color:lightslategray;
 }
+#planets img {
+  width: 100px; /* Adjust the width as needed */
+  height: auto; /* This will maintain the aspect ratio of the images */
+}
