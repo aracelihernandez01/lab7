@@ -1,13 +1,13 @@
 body {
-  margin:auto;
-  font-family: "Times New Roman", Times, serif;
-  background-color: #fffaf0; 
+  margin: auto;
+  font-family: "Lucida Console", "Courier New", monospace; 
+  background-color: #fffaf0;
+  text-align: center; 
 }
 
 #title {
-  margin:auto;
-  color: #8b0000; 
-  text-align: left;
+  color: #8b0000;
+  text-align: center; 
   font-size: xx-large;
   line-height: normal;
 }
@@ -28,9 +28,10 @@ body {
 #planets,
 #planets th,
 #planets td {
-  color: #a52a2a; 
+  color: #a52a2a;
   border: 4px solid;
-  width: 10%;
+  width: 80%; 
+  margin: auto; 
   border-collapse: collapse;
   text-align: center;
   vertical-align: middle;
@@ -40,7 +41,7 @@ body {
   text-decoration: underline;
   text-decoration-color: #deb887;
   text-decoration-thickness: 2px;
-  background-color: #f4a460; 
+  background-color: #f4a460;
 }
 
 #planets td {
@@ -52,7 +53,7 @@ body {
 }
 
 #planets td:hover {
-  background-color: #ffa07a; 
+  background-color: #ffa07a;
 }
 
 #planets img {
